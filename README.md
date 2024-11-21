@@ -56,5 +56,5 @@ Click the **Logout** button on the dashboard to return to the login page.
 ### Admin Dashboard
 ![Admin Dashboard](images/AdminDashboard.png)
 ### Pharmacist Dashboard
-![Pharmacist Dashboard](path/to/screenshot.png)
+![Pharmacist Dashboard](images/PharmacistDashboard.png)
 
