@@ -52,7 +52,7 @@ Click the **Logout** button on the dashboard to return to the login page.
 
 ## Screenshots
 ### Login Page
-![Login Page](path/to/screenshot.png)
+![Login Page](images/LoginPage.png)
 ### Admin Dashboard
 ![Admin Dashboard](images/AdminDashboard.png)
 ### Pharmacist Dashboard
